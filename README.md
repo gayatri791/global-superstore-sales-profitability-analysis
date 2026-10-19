@@ -62,3 +62,10 @@ This project analyzes the Global Superstore dataset using PostgreSQL and Power B
 * Dashboard Development
 * Data Visualization
 * Insight Generation
+
+
+## Dashboard
+
+![Executive Overview](Images/Executive_Overview.png)
+
+![Product Analysis](Images/Product_Analysis.png)
